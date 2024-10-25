@@ -97,14 +97,6 @@ The primary objective of this project is to predict the hourly demand for bike r
 - Model accurately captured hourly rental patterns and weather influences, providing dependable rental demand forecasts.
 - **Top Model(s)**: [List your best model(s), e.g., Random Forest and Gradient Boosting, if applicable].
 
-### Suggested Visuals 📸
-
-- **Time Series Analysis**: Hourly and daily rental patterns, showcasing peak rental times.
-- **Weather Impact**: Visuals showing how temperature, humidity, and other factors influence bike demand.
-- **Model Comparisons**: Evaluation metrics comparison across models (e.g., a bar chart of RMSLE).
-- **Feature Importance**: Key features that influenced rental demand predictions.
-- **Forecast Visualizations**: Predicted vs. actual rental counts over a sample period to show model accuracy.
-
 ---
 
 ## Evaluation Metrics 🧮
